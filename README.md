@@ -5,6 +5,7 @@ Olá! Sou um desenvolvedor apaixonado por **tecnologia**, **projetos criativos**
 ## informações sobre mim :D
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko" ></img>
-</div>
+</div><br>
+
 > ## Entre em contato
 > Se você gosta de inovação, uma boa piada técnica (ou uma péssima) e projetos que desafiam o comum, este é o lugar para você. Sinta-se à vontade para abrir um pull request, colaborar em algo maluco, ou simplesmente dar uma olhada nas minhas criações. 

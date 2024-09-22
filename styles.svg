@@ -25,7 +25,10 @@
         }
 
         .tittle h1 {
-          font-size: 50%;
+          font-size: 70%;
+        }
+        .tittle h2 {
+          font-size: 60%;
         }
 
         .matrix-effect { 

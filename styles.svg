@@ -16,7 +16,7 @@
         .tittle {
           width: 50%;
           height; 50%;
-          color: #aaaaaa;
+          color: #ffffff;
           background-color: #009900;
           position: fixed;
           justify-self: center;

@@ -13,9 +13,9 @@
           }
         }
 
-
-
-        .tittle{
+        .tittle {
+          width: 50%;
+          height; 50%;
           color: #aaaaaa;
           background-color: #009900;
           position: fixed;
@@ -207,7 +207,11 @@
          <span><p>  D a v i</p></span>
         </div>
 
-        <h1 class="tittle">Hi there! My name is Davi Santos</h1>
+        <div class="tittle">
+          <h1>Hi there! My name is Davi Santos </h1>
+          <h2> Sou um desenvolvedor apaixonado por jogos e tech </h2>
+        </div>
+
        </div>
       </div>
   </foreignObject>

@@ -1,6 +1,6 @@
 <img src="styles.svg"/>
 
-Olá! Sou um desenvolvedor apaixonado por jogos e tech
+
 
 ## informações sobre mim :D
 <div style="display: block; text-align: center; justify-items: left; ">

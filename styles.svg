@@ -18,11 +18,10 @@
           height: 50%;
           color: #ffffff;
           background-color: #009900;
-          position: relative;
+          position: fixed;
           justify-self: center;
           align-self: center;  
           text-align: center;
-          transform: translateX(-30px);
         }
 
         .tittle h1{ font-size: 14pt; margin: 0%;}

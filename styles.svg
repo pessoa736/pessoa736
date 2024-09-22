@@ -14,15 +14,18 @@
         }
 
         .tittle {
-          font-size: 50%;
-          height: 50%;
-          width: 80%;
+          width: auto;
+          height: auto;
           color: #ffffff;
           background-color: #009900;
           position: fixed;
           justify-self: center;
           align-self: center;  
-          align-items: center;
+          text-align: center;
+        }
+
+        .tittle h1 {
+          font-size: 50%;
         }
 
         .matrix-effect { 

@@ -14,8 +14,8 @@
         }
 
         .tittle {
-          width: auto;
-          height: auto;
+          width: 80%;
+          height: 50%;
           color: #ffffff;
           background-color: #009900;
           position: fixed;
@@ -23,6 +23,10 @@
           align-self: center;  
           text-align: center;
         }
+
+        .tittle h1{ font-size: 18pt;}
+        .tittle h2{ font-size: 14pt;}
+
         .matrix-effect { 
           position: relative;
         }

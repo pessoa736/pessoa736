@@ -23,14 +23,6 @@
           align-self: center;  
           text-align: center;
         }
-
-        .tittle h1 {
-          font-size: 24px;
-        }
-        .tittle h2 {
-          size: 50%;
-        }
-
         .matrix-effect { 
           position: relative;
         }

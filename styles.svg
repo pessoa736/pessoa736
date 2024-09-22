@@ -15,7 +15,6 @@
 
         .tittle {
           font-size: 50%;
-          width: 50%;
           height: 50%;
           color: #ffffff;
           background-color: #009900;

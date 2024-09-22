@@ -1,11 +1,11 @@
 <img src="styles.svg"/>
 
-Olá! Sou um desenvolvedor apaixonado por **tecnologia**, **projetos criativos** e um toque de **humor** na linha de código. Seja no mundo das **ecotarefas**, da **matemática bizarra** ou criando **sistemas fictícios como o PudimSystem**, gosto de explorar o inesperado com uma pitada de lógica (e às vezes com um bocado de café ☕).
+Olá! Sou um desenvolvedor apaixonado por jogos e tech
 
 ## informações sobre mim :D
-<div style="display: grid; justify-content: center; justify-itens: stretch; align-content: center; align-items: stretch;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessoa736&langs_count=8"/>
+<div style="display: block; text-align: center; justify-items: left; ">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko"/>
+    <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessoa736&langs_count=8&layout=compact"/>
 </div><br>
 
 > ## Entre em contato

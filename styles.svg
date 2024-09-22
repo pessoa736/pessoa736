@@ -82,8 +82,8 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
+    				<img src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko"/>
+   				 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessoa736&langs_count=8"/>
 			</div>
 		</div>
 	</foreignObject>

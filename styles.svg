@@ -25,7 +25,7 @@
         }
 
         .tittle h1 {
-          font-size: 70%;
+          font-size: 90%;
         }
         .tittle h2 {
           font-size: 60%;

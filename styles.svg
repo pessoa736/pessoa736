@@ -18,14 +18,14 @@
           height: 50%;
           color: #ffffff;
           background-color: #009900;
-          position: fixed;
+          position: relative;
           justify-self: center;
           align-self: center;  
           text-align: center;
         }
 
-        .tittle h1{ font-size: 14pt;}
-        .tittle h2{ font-size: 12pt; transform: translateY(-20px);}
+        .tittle h1{ font-size: 14pt; margin: 0%;}
+        .tittle h2{ font-size: 12pt; margin: 0%;} 
 
         .matrix-effect { 
           position: relative;

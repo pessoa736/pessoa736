@@ -5,11 +5,11 @@
 
         @keyframes char{
           0%{
-            transform: translateY(0vh);
+            transform: translateY(0px);
           }
           
           100%{
-            transform: translateY(40vh);
+            transform: translateY(40px);
           }
         }
 

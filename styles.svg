@@ -22,6 +22,7 @@
           justify-self: center;
           align-self: center;  
           text-align: center;
+          transform: translateX(-30px);
         }
 
         .tittle h1{ font-size: 14pt; margin: 0%;}

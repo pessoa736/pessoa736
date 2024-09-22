@@ -25,7 +25,7 @@
         }
 
         .tittle h1{ font-size: 14pt;}
-        .tittle h2{ font-size: 12pt;}
+        .tittle h2{ font-size: 12pt; transform: translateY(-20px);}
 
         .matrix-effect { 
           position: relative;

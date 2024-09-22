@@ -4,7 +4,7 @@ Olá! Sou um desenvolvedor apaixonado por jogos e tech
 
 ## informações sobre mim :D
 <div style="display: block; text-align: center; justify-items: left; ">
-    <img width="300px" src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko"/>
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko"/>
     <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessoa736&langs_count=8&layout=compact"/>
 </div><br>
 

@@ -16,11 +16,13 @@
         .tittle {
           font-size: 50%;
           height: 50%;
+          width: 80%;
           color: #ffffff;
           background-color: #009900;
           position: fixed;
           justify-self: center;
           align-self: center;  
+          align-items: center;
         }
 
         .matrix-effect { 

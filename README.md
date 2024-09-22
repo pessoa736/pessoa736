@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="styles.svg"/>
 
 Olá! Sou um desenvolvedor apaixonado por **tecnologia**, **projetos criativos** e um toque de **humor** na linha de código. Seja no mundo das **ecotarefas**, da **matemática bizarra** ou criando **sistemas fictícios como o PudimSystem**, gosto de explorar o inesperado com uma pitada de lógica (e às vezes com um bocado de café ☕).
 

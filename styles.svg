@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 600 120" width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 100" width="600" height="100" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -22,7 +22,6 @@
           justify-self: center;
           align-self: center;  
           text-align: center;
-          border-radius: 10%;
         }
 
         .tittle h1{ font-size: 14pt;}
@@ -52,7 +51,7 @@
           background-color: black;
           display: flex;
 
-          align-items: center;
+          align-content: center;
           justify-content: center;
 
           font-family: new-times-roman;

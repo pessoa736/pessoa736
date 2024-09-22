@@ -22,10 +22,11 @@
           justify-self: center;
           align-self: center;  
           text-align: center;
+          border-radius: 10%;
         }
 
-        .tittle h1{ font-size: 18pt;}
-        .tittle h2{ font-size: 14pt;}
+        .tittle h1{ font-size: 14pt;}
+        .tittle h2{ font-size: 12pt;}
 
         .matrix-effect { 
           position: relative;

@@ -1,21 +1,9 @@
 ## Hi there 👋
-<div style="width: 200px;">
-<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pessoa736&langs_count=8" alt="Top Langs" />
-</a>
-</div>
 
-<!--
-**pessoa736/pessoa736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou um desenvolvedor apaixonado por **tecnologia**, **projetos criativos** e um toque de **humor** na linha de código. Seja no mundo das **ecotarefas**, da **matemática bizarra** ou criando **sistemas fictícios como o PudimSystem**, gosto de explorar o inesperado com uma pitada de lógica (e às vezes com um bocado de café ☕).
 
-Here are some ideas to get you started:
+## informações sobre mim :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> ## Entre em contato
+> Se você gosta de inovação, uma boa piada técnica (ou uma péssima) e projetos que desafiam o comum, este é o lugar para você. Sinta-se à vontade para abrir um pull request, colaborar em algo maluco, ou simplesmente dar uma olhada nas minhas criações. 

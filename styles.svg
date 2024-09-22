@@ -58,23 +58,23 @@
           transform: translateX(-290px) translateY(100px);
         }
         .matrix-effect:nth-child(2){
-          transform: translateX(-30px) translateY(-100px);
+          transform: translateX(-56px) translateY(-197px);
         }
         .matrix-effect:nth-child(3){
-          transform: translateX(-70px) translateY(-20px);
+          transform: translateX(-27px) translateY(-20px);
         }
         .matrix-effect:nth-child(4){
-          transform: translateX(-90px) translateY(30px);
+          transform: translateX(-156px) translateY(30px);
         }
         .matrix-effect:nth-child(5){
-          transform: translateX(-30px) translateY(100px);
+          transform: translateX(-32px) translateY(100px);
         }
         .matrix-effect:nth-child(6){
-          transform: translateX(-150px) translateY(40px);
+          transform: translateX(-120px) translateY(40px);
         }
         .matrix-effect:nth-child(7){
           animation-delay: 3s;
-          transform: translateX(-200px) translateY(100px);
+          transform: translateX(-10px) translateY(100px);
         }
         .matrix-effect:nth-child(8){
           animation-delay: 3s;
@@ -86,15 +86,15 @@
         }
         .matrix-effect:nth-child(10){
           animation-delay: 3s;
-          transform: translateX(90px) translateY(400px);
+          transform: translateX(90px) translateY(40px);
         }
         .matrix-effect:nth-child(11){
           animation-delay: 3s;
-          transform: translateX(-30px) translateY(200px);
+          transform: translateX(-310px) translateY(190px);
         }
         .matrix-effect:nth-child(12){
           animation-delay: 3s;
-          transform: translateX(-150px) translateY(90px);
+          transform: translateX(-150px) translateY(10px);
         }
 
 

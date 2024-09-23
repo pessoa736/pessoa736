@@ -13,8 +13,8 @@
 
 ## My stauts in github :D
 <div align="center">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko" alt=Davi/>
-        <img style="width: 51%;" src="https://github-readme-streak-stats.herokuapp.com/?user=pessoa736&theme=merko" alt="Davi" />
+        <img style="width: 47%" src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko" alt=Davi/>
+        <img style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=pessoa736&theme=merko" alt="Davi" />
 </div><br>
 
 ## Languages ​​I know how to use

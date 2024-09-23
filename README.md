@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="styles.svg" width="75%"/>
+    <img src="hi_there.svg" width="75%"/>
 </div><br>
 
 ## information about me :D

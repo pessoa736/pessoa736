@@ -2,7 +2,8 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <styles>
-        .backgorud{
+        
+        .backgorud {
           position:fixed;
           left: 0;
           botton: 0;
@@ -10,7 +11,12 @@
           top: 0;
           background-color: #000;
         }
+        
       </styles>
+
+    <div class="background">
+      
+    </div>
     </div>
   </foreignObject>
 </svg>

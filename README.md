@@ -10,12 +10,18 @@
 
 ## Languages ​​I know how to use
 
-<div>
+<div align="center" styles="display: flex; align-content: center">
     <a href="https://www.lua.org/home.html">
         <img src="https://avatars.githubusercontent.com/u/2319114?s=100&v=4"  />
     </a>
     <a href="https://www.python.org/">
-        <img src="https://www.python.org/static/img/python-logo.png"  />
+        <img src="https://avatars.githubusercontent.com/u/1525981?s=100&v=4"  />
+    </a>
+    <a href="https://www.php.net/">
+        <img src="https://avatars.githubusercontent.com/u/25158?s=100&v=4" />
+    </a>
+    <a href="https://nodejs.org/">
+        <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" width=14% height="14%"/>
     </a>
 </div>
 

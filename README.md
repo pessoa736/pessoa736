@@ -23,5 +23,8 @@
     <a href="https://nodejs.org/">
         <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" width=14% height="14%"/>
     </a>
+    <a href="https://git-scm.com/downloads">
+        <img src="https://git-scm.com/images/logo@2x.png" width=15%/>
+    </a>
 </div>
 

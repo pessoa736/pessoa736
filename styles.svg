@@ -51,6 +51,16 @@
         }
 
         .background {
+          width: 100%
+          background-color: black;
+          display: flex;
+
+          align-content: center;
+          justify-content: center;
+
+          font-family: new-times-roman;
+        }
+        .background_tittle {
           background-color: black;
           display: flex;
 
@@ -128,7 +138,7 @@
 
       </style>
 
-      <div class="background">
+      <div class="background_tittle">
         <div class="matrix-effect">
          <span><p>  D a v i</p></span>
          <span><p>  D a v i</p></span>
@@ -222,5 +232,7 @@
        </div>
       </div>
   </foreignObject>
+
+  <div class="background"></div>
       
 </svg>

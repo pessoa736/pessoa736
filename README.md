@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="styles.svg" width="50%"/>
+    <img src="styles.svg" width="75%"/>
 </div>
 ## information about me :D
 <div style="display: block; text-align: center; justify-items: left; ">

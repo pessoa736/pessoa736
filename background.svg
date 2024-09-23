@@ -16,9 +16,8 @@
         
       </style>
 
-      <div class="background">
-        <p>aaaaa</p>
-      </div>
+      <rect class="background" x="0" y="0" width="200%" height="200%" />
+        
     </div>
   </foreignObject>
 </svg>

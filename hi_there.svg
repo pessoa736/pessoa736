@@ -49,17 +49,6 @@
             text-align: center;
             animation: char 1s ease-in-out infinite;
         }
-
-        .background {
-          width: 100%;
-          background-color: black;
-          display: flex;
-
-          align-content: center;
-          justify-content: center;
-
-          font-family: new-times-roman;
-        }
         .background_tittle {
           background-color: black;
           display: flex;

@@ -22,7 +22,9 @@
           justify-self: center;
           align-self: center;  
           text-align: center;
-          left: 0;
+          left: 25%;
+          top: 25%;
+          right: 25%;
         }
 
         .tittle h1{ font-size: 14pt; margin: 0%;}

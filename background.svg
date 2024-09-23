@@ -15,9 +15,7 @@
         }
         
       </style>
-
-      <rect  x="0" y="0" width="200%" height="200%" fill="black"/>
-        
     </div>
+      <rect  x="0" y="0" width="200%" height="200%" fill="black"/>
   </foreignObject>
 </svg>

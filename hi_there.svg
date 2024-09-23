@@ -17,7 +17,7 @@
           width: 80%;
           height: 50%;
           color: #ffffff;
-          background-color: #009900;
+          background-color: #007a00;
           position: fixed;
           justify-self: center;
           align-self: center;  

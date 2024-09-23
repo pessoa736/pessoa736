@@ -16,7 +16,7 @@
         
       </style>
 
-      <rect class="background" x="0" y="0" width="200%" height="200%" />
+      <rect  x="0" y="0" width="200%" height="200%" fill="black"/>
         
     </div>
   </foreignObject>

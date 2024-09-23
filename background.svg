@@ -4,24 +4,22 @@
       <styles>
         
        .tittle {
-          width: 80%;
-          height: 50%;
+          width: 200%;
+          height: 200%;
           color: #ffffff;
-          background-color: #009900;
+          background-color: #000000;
           position: fixed;
-          justify-self: center;
-          align-self: center;  
-          text-align: center;
-          left: 25%;
-          top: 25%;
-          right: 25%;
+          left: 0;
+          top: 0;
+          right: 0;
+          bottom: 0;
         }
         
       </styles>
 
-    <div class="background">
-      
-    </div>
+      <div class="background">
+        <p></p>
+      </div>
     </div>
   </foreignObject>
 </svg>

@@ -3,13 +3,18 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <styles>
         
-        .backgorud {
-          position:fixed;
-          left: 0;
-          botton: 0;
-          right: 0;
-          top: 0;
-          background-color: #000;
+       .tittle {
+          width: 80%;
+          height: 50%;
+          color: #ffffff;
+          background-color: #009900;
+          position: fixed;
+          justify-self: center;
+          align-self: center;  
+          text-align: center;
+          left: 25%;
+          top: 25%;
+          right: 25%;
         }
         
       </styles>

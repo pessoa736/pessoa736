@@ -5,9 +5,9 @@
 ## about me
 <img align="right" style="width: 30%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pessoa736&show_icons=true&layout=compact&theme=merko" alt="Davi" />
 <p align="left">
-    - .....
-    - i'm...  hm
-    - I'm still thinking....
+    - ..... <br>
+    - i'm...  hm <br>
+    - I'm still thinking.... <br>
     
 </p><br>
 

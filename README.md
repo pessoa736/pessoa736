@@ -1,7 +1,6 @@
-<img src="styles.svg"/>
-
-
-
+<div align="center">
+    <img src="styles.svg" width="50%"/>
+</div>
 ## information about me :D
 <div style="display: block; text-align: center; justify-items: left; ">
     <img width="400px" src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko"/>

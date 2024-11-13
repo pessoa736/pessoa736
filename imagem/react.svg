@@ -1,0 +1,19 @@
+<svg id='React_Native_24' width='24' height='24' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
+  <rect width='24' height='24' stroke='none' fill='#000000' opacity='0'/>
+  <g transform="matrix(0.42 0 0 0.42 12 12)" >
+    <g style="" >
+      <g transform="matrix(1 0 0 1 0 0)" >
+        <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,222,234); fill-rule: nonzero; opacity: 1;" transform=" translate(-24, -24)" d="M 24 34 C 11.1 34 1 29.6 1 24 C 1 18.4 11.1 14 24 14 C 36.9 14 47 18.4 47 24 C 47 29.6 36.9 34 24 34 z M 24 16 C 11.4 16 3 20.1 3 24 C 3 27.9 11.4 32 24 32 C 36.6 32 45 27.9 45 24 C 45 20.1 36.6 16 24 16 z" stroke-linecap="round" />
+      </g>
+      <g transform="matrix(1 0 0 1 -0.05 0.03)" >
+        <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,222,234); fill-rule: nonzero; opacity: 1;" transform=" translate(-23.95, -24.03)" d="M 15.1 44.6 C 14.1 44.6 13.299999999999999 44.4 12.5 43.9 C 7.6 41.1 8.9 30.2 15.3 19 L 15.3 19 C 18.3 13.8 22 9.4 25.6 6.6 C 29.5 3.5999999999999996 33 2.6999999999999997 35.400000000000006 4.1 C 37.900000000000006 5.5 38.800000000000004 9 38.2 13.9 C 37.6 18.5 35.6 23.9 32.6 29.1 C 29.6 34.300000000000004 25.900000000000002 38.7 22.3 41.5 C 19.7 43.5 17.2 44.6 15.1 44.6 z M 32.9 5.4 C 31.299999999999997 5.4 29.2 6.300000000000001 26.9 8.100000000000001 C 23.5 10.8 20 15.000000000000002 17.099999999999998 20 L 17.099999999999998 20 C 10.799999999999997 30.9 10.199999999999998 40.3 13.499999999999998 42.2 C 15.199999999999998 43.2 18 42.300000000000004 21.099999999999998 39.900000000000006 C 24.499999999999996 37.2 28 33.00000000000001 30.9 28.000000000000007 C 33.8 23.000000000000007 35.699999999999996 17.900000000000006 36.3 13.600000000000007 C 36.8 9.600000000000007 36.199999999999996 6.800000000000007 34.5 5.800000000000007 C 34 5.6 33.5 5.4 32.9 5.4 z" stroke-linecap="round" />
+      </g>
+      <g transform="matrix(1 0 0 1 0.02 0.03)" >
+        <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,222,234); fill-rule: nonzero; opacity: 1;" transform=" translate(-24.02, -24.03)" d="M 33 44.6 C 28 44.6 20.8 38.5 15.399999999999999 29 C 8.9 17.8 7.6 6.9 12.5 4.1 L 12.5 4.1 C 17.4 1.3 26.2 7.8 32.7 19 C 35.7 24.2 37.7 29.6 38.300000000000004 34.2 C 39.00000000000001 39.1 38.00000000000001 42.5 35.50000000000001 44 C 34.7 44.4 33.9 44.6 33 44.6 z M 13.5 5.8 C 10.2 7.699999999999999 10.8 17.1 17.1 28 C 23.400000000000002 38.9 31.200000000000003 44.1 34.5 42.2 C 36.2 41.2 36.8 38.400000000000006 36.3 34.400000000000006 C 35.699999999999996 30.100000000000005 33.8 25.000000000000007 30.9 20.000000000000007 C 24.6 9.1 16.8 3.9 13.5 5.8 L 13.5 5.8 z" stroke-linecap="round" />
+      </g>
+      <g transform="matrix(1 0 0 1 0 0)" >
+        <circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(128,222,234); fill-rule: nonzero; opacity: 1;" cx="0" cy="0" r="4" />
+      </g>
+    </g>
+  </g>
+</svg>

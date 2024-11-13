@@ -45,7 +45,7 @@
     </tr>
     <tr>
       <th scope="row">I know the basics</th>
-      <td> 
+      <td justify-components="center"> 
         <a href="https://react.dev/">
             <img src="./imagem/react.svg"  width="48px" />
         </a>
@@ -57,6 +57,20 @@
         </a>
         <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
             <img src="./imagem/vs2019.svg" width="48px" />
+        </a>
+        <a href="https://cmake.org/">
+            <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Logo.svg" height="48px" />
+        </a>
+        <a href="https://luarocks.org/">
+            <img src="https://luarocks.org/static/logo.svg" height="48px" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">use to pass the time</th>
+      <td justify-components="center"> 
+        <a href="https://tic80.com/">
+            <img src="https://tic80.com/img/logo64.png" width="48px">
         </a>
       </td>
     </tr>

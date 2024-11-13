@@ -24,6 +24,9 @@
     <tr>
       <th scope="row">no difficulties</th>
       <td>
+        <a href="https://www.gnu.org/software/bash/">
+            <img src="./imagem/bash.svg" width="48px"  />
+        </a>
         <a href="https://www.python.org/">
             <img src="https://avatars.githubusercontent.com/u/1525981?s=50&v=4" width="48px"  />
         </a>

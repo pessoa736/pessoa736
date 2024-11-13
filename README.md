@@ -80,18 +80,18 @@
   </tbody>
 </table><br>
 
-## My stauts in github :D
-<div align="center">
-        <img style="width: 47%" src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko" alt=Davi/>
-       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pessoa736&theme=merko&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=80%2C033100%2C0A5661&ring=1CD41971&fire=00F324D9" alt="GitHub Streak" /></a>
-</div><br>
-
-## about me
-<img align="right" style="width: 30%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pessoa736&show_icons=true&layout=compact&theme=merko" alt="Davi" />
-<p align="left">
-    - ..... <br>
-    - i'm...  hm <br>
-    - I'm still thinking.... <br>
-    
-</p><br>
-
+## about me :D
+<div display="inline-block">
+    <div display="block">
+            <img style="width: 47%" src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko" alt=Davi/>
+           <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pessoa736&theme=merko&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=80%2C033100%2C0A5661&ring=1CD41971&fire=00F324D9" alt="GitHub Streak" /></a>
+    </div><br>
+    <div align=right>
+        <img align="right" style="width: 30%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pessoa736&show_icons=true&layout=compact&theme=merko" alt="Davi" />
+        <p align="left">
+            - ..... <br>
+            - i'm...  hm <br>
+            - I'm still thinking.... <br>
+        </p><br>
+    </div>
+</div>

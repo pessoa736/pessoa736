@@ -78,11 +78,7 @@
       </td>
     </tr>
   </tbody>
-</table>
-
-<div align="center" styles="display: flex; align-content: center">
-   
-</div><br>
+</table><br>
 
 ## My stauts in github :D
 <div align="center">

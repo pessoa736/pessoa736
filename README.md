@@ -2,7 +2,7 @@
     <img src="hi_there.svg" width="75%"/>
 </div><br>
 
-## Languages ​​I know how to use
+## Languages/tools ​​I know how to use
 
 
 <table>
@@ -17,7 +17,7 @@
       <th scope="row">fully understanding</th>
       <td>
         <a href="https://www.lua.org/home.html">
-            <img src="https://avatars.githubusercontent.com/u/2319114?s=50&v=4"  />
+            <img src="https://avatars.githubusercontent.com/u/2319114?s=50&v=4" width="48px"  />
         </a>
       </td>
     </tr> 
@@ -25,24 +25,38 @@
       <th scope="row">no difficulties</th>
       <td>
         <a href="https://www.python.org/">
-            <img src="https://avatars.githubusercontent.com/u/1525981?s=50&v=4"  />
+            <img src="https://avatars.githubusercontent.com/u/1525981?s=50&v=4" width="48px"  />
         </a>
         <a href="https://www.php.net/">
-            <img src="https://avatars.githubusercontent.com/u/25158?s=50&v=4" />
+            <img src="https://avatars.githubusercontent.com/u/25158?s=50&v=4"  width="48px" />
         </a>
         <a href="https://nodejs.org/">
-            <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" width=14% height="14%"/>
+            <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg"  width="48px"/>
+        </a>
+        <a href="https://github.com/">
+            <img src="./imagem/github.svg" width="48px" />
+        </a>
+        <img src="./imagem/css.svg" width="48px" />
+        <img src="./imagem/javascript.svg"  width="48px" />
+        <a href="https://code.visualstudio.com/">
+            <img src="./imagem/vscode.svg" width="48px" />
         </a>
       </td>
     </tr>
     <tr>
       <th scope="row">I know the basics</th>
       <td> 
+        <a href="https://react.dev/">
+            <img src="./imagem/react.svg"  width="48px" />
+        </a>
         <a href="https://git-scm.com/downloads">
-            <img src="https://git-scm.com/images/logo@2x.png" width=15%/>
+            <img src="https://git-scm.com/images/logo@2x.png"  width="48px"/>
         </a>
         <a href="https://www.npmjs.com/">
-            <img src="./imagem/npm.svg" width=10%/>
+            <img src="./imagem/npm.svg"  width="48px"/>
+        </a>
+        <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
+            <img src="./imagem/vs2019.svg" width="48px" />
         </a>
       </td>
     </tr>

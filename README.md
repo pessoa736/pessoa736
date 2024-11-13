@@ -21,7 +21,7 @@
         <img src="https://git-scm.com/images/logo@2x.png" width=15%/>
     </a>
     <a href="https://www.npmjs.com/">
-        <img src="./imagem/npm.svg" width=15%/>
+        <img src="./imagem/npm.svg" width=10%/>
     </a>
 </div><br>
 

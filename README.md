@@ -2,21 +2,6 @@
     <img src="hi_there.svg" width="75%"/>
 </div><br>
 
-## about me
-<img align="right" style="width: 30%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pessoa736&show_icons=true&layout=compact&theme=merko" alt="Davi" />
-<p align="left">
-    - ..... <br>
-    - i'm...  hm <br>
-    - I'm still thinking.... <br>
-    
-</p><br>
-
-## My stauts in github :D
-<div align="center">
-        <img style="width: 47%" src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko" alt=Davi/>
-        <img style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=pessoa736&theme=merko" alt="Davi" />
-</div><br>
-
 ## Languages ​​I know how to use
 
 <div align="center" styles="display: flex; align-content: center">
@@ -35,5 +20,23 @@
     <a href="https://git-scm.com/downloads">
         <img src="https://git-scm.com/images/logo@2x.png" width=15%/>
     </a>
-</div>
+    <a href="https://git-scm.com/downloads">
+        <img src="https://git-scm.com/images/logo@2x.png" width=15%/>
+    </a>
+</div><br>
+
+## My stauts in github :D
+<div align="center">
+        <img style="width: 47%" src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko" alt=Davi/>
+        <img style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=pessoa736&theme=merko" alt="Davi" />
+</div><br>
+
+## about me
+<img align="right" style="width: 30%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pessoa736&show_icons=true&layout=compact&theme=merko" alt="Davi" />
+<p align="left">
+    - ..... <br>
+    - i'm...  hm <br>
+    - I'm still thinking.... <br>
+    
+</p><br>
 

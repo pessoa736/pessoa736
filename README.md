@@ -83,7 +83,7 @@
 ## about me :D
 <div display="center">
     <div display="block">
-            <img align="left" style="width: 55%" src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko&background=80%2C033100%2C0A56" alt=Davi/>
+            <img align="left" style="width: 54%" src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko&background=80%2C033100%2C0A56" alt=Davi/>
             <img align="right" style="width: 45%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pessoa736&show_icons=true&layout=compact&theme=merko" alt="Davi" />
     </div>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=pessoa736&theme=merko&date_format=n%2Fj%5B%2FY%5D&mode=weekly&background=80%2C033100%2C0A5661&ring=1CD41971&fire=00F324D9" width="256px" alt="GitHub Streak" />

@@ -82,7 +82,7 @@
 
 ## about me :D
 <div display="center">
-    <div display="inline">
+    <div display="flex">
             <img align="left" style="width: 54%" src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko&background=80%2C033100%2C0A56" alt=Davi/>
             <img align="right" style="width: 45%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pessoa736&show_icons=true&layout=compact&theme=merko" alt="Davi" />
     </div>

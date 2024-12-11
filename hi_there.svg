@@ -14,10 +14,13 @@
         }
 
         .tittle {
+          --font_color: #d0ffdc;
+          --font_background_color: #007a00;
+
           width: 80%;
           height: 50%;
-          color: #ffffff;
-          background-color: #007a00;
+          color: var(--font_color);
+          background-color: var(--font_background_color);
           position: fixed;
           justify-self: center;
           align-self: center;  
@@ -40,17 +43,24 @@
         }
 
         .matrix-effect span {
+            --matrix_effect_color1: rgba(155,255,155,0.11);
+            --matrix_effect_color2: #006e00;
+            --matrix_effect_color3: #0fbe0f;
+            --matrix_effect_color4: #8fff8f;
+
             display: block;
             width: 2vmax;
             height: 2vmax;
             font-size: 2vmax;
             opacity: 1;
-            color: #9bff9b11;
+            color: var(--matrix_effect_color1);
             text-align: center;
             animation: char 1s ease-in-out infinite;
         }
         .background_tittle {
-          background-color: black;
+          --background_color: #359f60;
+
+          background-color: var(--background_color);
           display: flex;
 
           align-content: center;
@@ -114,17 +124,32 @@
         }
         .matrix-effect span:nth-child(3) {
             animation-delay: 300ms;
-            color: #006600;
+            color: var(--matrix_effect_color2);
         }
         .matrix-effect span:nth-child(4) {
             animation-delay: 400ms;
-            color: #009900;
+            color: var(--matrix_effect_color3);
         }
         .matrix-effect span:nth-child(5) {
             animation-delay: 500ms;
-            color: #ffffff;
+            color: var(--matrix_effect_color4);
         }
 
+        @media (prefers-color-scheme: light) {
+          .matrix-effect{
+            --matrix_effect_color1: rgba(155,255,155,0.26);
+            --matrix_effect_color2: #bcfdbc;
+            --matrix_effect_color3: #59e459;
+            --matrix_effect_color4: #2fcc1a;
+          }
+          .background_tittle {
+          --background_color: #0a7c37;
+          }
+          .tittle {
+            --font_color: #007c1f;
+            --font_background_color: #94ff94;
+          }
+        }
       </style>
 
       <div class="background_tittle">

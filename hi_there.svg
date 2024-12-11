@@ -147,7 +147,7 @@
           }
           .tittle {
             --font_color: #007c1f;
-            --font_background_color: #94ff94;
+            --font_background_color: rgba(148,255,148,0.24);
           }
         }
       </style>

@@ -141,6 +141,7 @@
             --matrix_effect_color2: #bcfdbc;
             --matrix_effect_color3: #59e459;
             --matrix_effect_color4: #2fcc1a;
+            
           }
           .background_tittle {
           --background_color: #0a7c37;

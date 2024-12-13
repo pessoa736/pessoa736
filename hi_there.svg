@@ -137,7 +137,7 @@
 
         @media (prefers-color-scheme: light) {
           .matrix-effect{
-            --matrix_effect_color1: rgba(155,255,155,0.137);
+            --matrix_effect_color1: rgba(155,255,155,0.037);
             --matrix_effect_color2: #bcfdbc;
             --matrix_effect_color3: #59e459;
             --matrix_effect_color4: #2fcc1a;
@@ -147,7 +147,7 @@
           }
           .tittle {
             --font_color: #007c1f;
-            --font_background_color: rgba(148,255,148,0.24);
+            --font_background_color: rgba(148,255,148,0.14);
           }
         }
       </style>

@@ -82,7 +82,9 @@
 
 ## about me :D
 <div display="center" align="center"><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pessoa736&hide_border=true&border_radius=10&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=480&background=70%2C000000%2C575757&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=B0B0B0)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats">   
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=pessoa736&hide_border=true&border_radius=10&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=480&background=70%2C000000%2C575757&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=B0B0B0" alt="GitHub Streak" />
+    </a>
     <div display="flex" align="center">
             <img style="width: 43%; position: fixed; left: 0; top: 0" src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&theme=merko&background=80%2C033100%2C0A56" alt=Davi/>
             <img style="width: 33%; position: fixed; right: 0; top: 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=pessoa736&show_icons=true&layout=compact&theme=merko" alt="Davi" />

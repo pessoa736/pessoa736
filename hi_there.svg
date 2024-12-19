@@ -58,7 +58,7 @@
             animation: char 1s ease-in-out infinite;
         }
         .background_tittle {
-          --background_color: #359f60;
+          --background_color: #155f10;
 
           background-color: var(--background_color);
           display: flex;

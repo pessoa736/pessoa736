@@ -65,7 +65,7 @@
 
           align-content: center;
           justify-content: center;
-
+          border-radius: 20px;
           font-family: new-times-roman;
         }
 
@@ -135,21 +135,7 @@
             color: var(--matrix_effect_color4);
         }
 
-        @media (prefers-color-scheme: light) {
-          .matrix-effect{
-            --matrix_effect_color1: rgba(155,255,155,0.037);
-            --matrix_effect_color2: #bcfdbc;
-            --matrix_effect_color3: #59e459;
-            --matrix_effect_color4: #2fcc1a;
-          }
-          .background_tittle {
-          --background_color: #0a7c37;
-          }
-          .tittle {
-            --font_color: #007c1f;
-            --font_background_color: rgba(148,255,148,0.14);
-          }
-        }
+        
       </style>
 
       <div class="background_tittle">

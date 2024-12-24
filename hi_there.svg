@@ -15,12 +15,13 @@
 
         .tittle {
           --font_color: #d0ffdc;
-          --font_background_color: #007a00;
-
+          --font_background_color: linear-gradient(-195deg, #777, #aaa);
+          
+          border-radius: 8px;
           width: 80%;
           height: 50%;
           color: var(--font_color);
-          background-color: var(--font_background_color);
+          background: var(--font_background_color);
           position: fixed;
           justify-self: center;
           align-self: center;  
@@ -43,10 +44,10 @@
         }
 
         .matrix-effect span {
-            --matrix_effect_color1: rgba(155,255,155,0.11);
-            --matrix_effect_color2: #006e00;
-            --matrix_effect_color3: #0fbe0f;
-            --matrix_effect_color4: #8fff8f;
+            --matrix_effect_color1: #444444;
+            --matrix_effect_color2: #888888;
+            --matrix_effect_color3: #cccccc;
+            --matrix_effect_color4: #ffffff;
 
             display: block;
             width: 2vmax;
@@ -58,9 +59,9 @@
             animation: char 1s ease-in-out infinite;
         }
         .background_tittle {
-          --background_color: #359f60;
+          --background_color: linear-gradient(15deg, #333, #000);
 
-          background-color: var(--background_color);
+          background: var(--background_color);
           display: flex;
 
           align-content: center;
@@ -135,21 +136,7 @@
             color: var(--matrix_effect_color4);
         }
 
-        @media (prefers-color-scheme: light) {
-          .matrix-effect{
-            --matrix_effect_color1: rgba(155,255,155,0.137);
-            --matrix_effect_color2: #bcfdbc;
-            --matrix_effect_color3: #59e459;
-            --matrix_effect_color4: #2fcc1a;
-          }
-          .background_tittle {
-          --background_color: #0a7c37;
-          }
-          .tittle {
-            --font_color: #007c1f;
-            --font_background_color: rgba(148,255,148,0.24);
-          }
-        }
+        
       </style>
 
       <div class="background_tittle">

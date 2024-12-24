@@ -59,11 +59,8 @@
             animation: char 1s ease-in-out infinite;
         }
         .background_tittle {
-<<<<<<< HEAD
           --background_color: linear-gradient(15deg, #333, #000);
-=======
-          --background_color: #051f00;
->>>>>>> f8ba312053e615fa34d118d29ca3eee73cac4a8c
+         
 
           background: var(--background_color);
           display: flex;

@@ -22,7 +22,7 @@
           height: 50%;
           color: var(--font_color);
           background: var(--font_background_color);
-          position: absolute;
+          position: fixed;
           justify-self: center;
           align-self: center;  
           text-align: center;

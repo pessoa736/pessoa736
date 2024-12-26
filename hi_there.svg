@@ -1,5 +1,5 @@
 <svg fill="none" viewBox="0 0 600 100" width="600px" height="100px" xmlns="http://www.w3.org/1999/svg">
-  <foreignObject width="600px" height="100px">
+
     <style>
       @keyframes char{
         0%{
@@ -228,7 +228,5 @@
         <h1> Hi there! My name is Davi Santos </h1>
         <h2> I'm a junior programmer and i love learning :)</h2>
       </div>
-
-     </div>
     </div> 
 </svg>

@@ -63,6 +63,7 @@
          
 
           background: var(--background_color);
+          align-itens: center;
           justify-itens: center;
           border-radius: 20px;
           font-family: new-times-roman;

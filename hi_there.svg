@@ -24,7 +24,6 @@
           background-color: var(--font_background_color);
           position: fixed;
           font-weight: 900;
-          font-size-adjust: ;
           justify-self: center;
           align-self: center;  
           text-align: center;
@@ -66,9 +65,10 @@
           background: var(--background_color);
           display: flex;
 
-          align-content: center;
+          
           justify-content: center;
           border-radius: 20px;
+          height: 80%;
           font-family: Times-New-Roman;
         }
 

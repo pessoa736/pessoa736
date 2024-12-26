@@ -59,7 +59,7 @@
             animation: char 1s ease-in-out infinite;
         }
         .background_tittle {
-          --background_color: linear-gradient(15deg, #333, #000);
+          --background_color: linear-gradient(-15deg, #333, #000);
          
 
           background: var(--background_color);

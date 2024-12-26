@@ -1,237 +1,234 @@
 <svg fill="none" viewBox="0 0 600 100" width="600px" height="100px" xmlns="http://www.w3.org/1999/svg">
   <foreignObject width="600px" height="100px">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-
-        @keyframes char{
-          0%{
-            transform: translateY(0px);
-          }
-          
-          100%{
-            transform: translateY(40px);
-          }
+    <style>
+      @keyframes char{
+        0%{
+          transform: translateY(0px);
         }
+        
+        100%{
+          transform: translateY(40px);
+        }
+      }
 
-        .tittle {
-          --font_color: #d0ffdc;
-          --font_background_color: linear-gradient(-195deg, #777, #aaa);
-          
-          border-radius: 8px;
-          width: 80%;
-          height: 50%;
-          color: var(--font_color);
-          background: var(--font_background_color);
-          position: fixed;
-          justify-self: center;
-          align-self: center;  
+      .tittle {
+        --font_color: #d0ffdc;
+        --font_background_color: linear-gradient(-195deg, #777, #aaa);
+        
+        border-radius: 8px;
+        width: 80%;
+        height: 50%;
+        color: var(--font_color);
+        background: var(--font_background_color);
+        position: fixed;
+        justify-self: center;
+        align-self: center;  
+        text-align: center;
+        left: 25%;
+        top: 25%;
+        right: 25%;
+      }
+
+      .tittle h1{ font-size: 14pt; margin: 0%;}
+      .tittle h2{ font-size: 12pt; margin: 0%;} 
+
+      .matrix-effect { 
+        position: relative;
+      }
+      
+      .matrix-effect p{
+        line-height: 1;
+        position: relative;
+      }
+
+      .matrix-effect span {
+          --matrix_effect_color1: #444444;
+          --matrix_effect_color2: #888888;
+          --matrix_effect_color3: #cccccc;
+          --matrix_effect_color4: #ffffff;
+
+          display: block;
+          width: 2vmax;
+          height: 2vmax;
+          font-size: 2vmax;
+          opacity: 1;
+          color: var(--matrix_effect_color1);
           text-align: center;
-          left: 25%;
-          top: 25%;
-          right: 25%;
-        }
+          animation: char 1s ease-in-out infinite;
+      }
+      .background_tittle {
+        --background_color: linear-gradient(15deg, #333, #000);
+       
 
-        .tittle h1{ font-size: 14pt; margin: 0%;}
-        .tittle h2{ font-size: 12pt; margin: 0%;} 
+        background: var(--background_color);
+        display: flex;
 
-        .matrix-effect { 
-          position: relative;
-        }
-        
-        .matrix-effect p{
-          line-height: 1;
-          position: relative;
-        }
-
-        .matrix-effect span {
-            --matrix_effect_color1: #444444;
-            --matrix_effect_color2: #888888;
-            --matrix_effect_color3: #cccccc;
-            --matrix_effect_color4: #ffffff;
-
-            display: block;
-            width: 2vmax;
-            height: 2vmax;
-            font-size: 2vmax;
-            opacity: 1;
-            color: var(--matrix_effect_color1);
-            text-align: center;
-            animation: char 1s ease-in-out infinite;
-        }
-        .background_tittle {
-          --background_color: linear-gradient(15deg, #333, #000);
-         
-
-          background: var(--background_color);
-          display: flex;
-
-          align-content: center;
-          justify-content: center;
-          border-radius: 20px;
-          font-family: new-times-roman;
-        }
+        align-content: center;
+        justify-content: center;
+        border-radius: 20px;
+        font-family: new-times-roman;
+      }
 
 
-        .matrix-effect:nth-child(1){
-          transform: translateX(-290px) translateY(100px);
-        }
-        .matrix-effect:nth-child(2){
-          transform: translateX(-56px) translateY(-197px);
-        }
-        .matrix-effect:nth-child(3){
-          transform: translateX(-27px) translateY(-20px);
-        }
-        .matrix-effect:nth-child(4){
-          transform: translateX(-156px) translateY(30px);
-        }
-        .matrix-effect:nth-child(5){
-          transform: translateX(-32px) translateY(100px);
-        }
-        .matrix-effect:nth-child(6){
-          transform: translateX(-120px) translateY(40px);
-        }
-        .matrix-effect:nth-child(7){
-          animation-delay: 3s;
-          transform: translateX(-10px) translateY(100px);
-        }
-        .matrix-effect:nth-child(8){
-          animation-delay: 3s;
-          transform: translateX(-30px) translateY(-70px);
-        }
-        .matrix-effect:nth-child(9){
-          animation-delay: 3s;
-          transform: translateX(70px) translateY(-80px);
-        }
-        .matrix-effect:nth-child(10){
-          animation-delay: 3s;
-          transform: translateX(90px) translateY(40px);
-        }
-        .matrix-effect:nth-child(11){
-          animation-delay: 3s;
-          transform: translateX(-310px) translateY(190px);
-        }
-        .matrix-effect:nth-child(12){
-          animation-delay: 3s;
-          transform: translateX(-150px) translateY(10px);
-        }
+      .matrix-effect:nth-child(1){
+        transform: translateX(-290px) translateY(100px);
+      }
+      .matrix-effect:nth-child(2){
+        transform: translateX(-56px) translateY(-197px);
+      }
+      .matrix-effect:nth-child(3){
+        transform: translateX(-27px) translateY(-20px);
+      }
+      .matrix-effect:nth-child(4){
+        transform: translateX(-156px) translateY(30px);
+      }
+      .matrix-effect:nth-child(5){
+        transform: translateX(-32px) translateY(100px);
+      }
+      .matrix-effect:nth-child(6){
+        transform: translateX(-120px) translateY(40px);
+      }
+      .matrix-effect:nth-child(7){
+        animation-delay: 3s;
+        transform: translateX(-10px) translateY(100px);
+      }
+      .matrix-effect:nth-child(8){
+        animation-delay: 3s;
+        transform: translateX(-30px) translateY(-70px);
+      }
+      .matrix-effect:nth-child(9){
+        animation-delay: 3s;
+        transform: translateX(70px) translateY(-80px);
+      }
+      .matrix-effect:nth-child(10){
+        animation-delay: 3s;
+        transform: translateX(90px) translateY(40px);
+      }
+      .matrix-effect:nth-child(11){
+        animation-delay: 3s;
+        transform: translateX(-310px) translateY(190px);
+      }
+      .matrix-effect:nth-child(12){
+        animation-delay: 3s;
+        transform: translateX(-150px) translateY(10px);
+      }
 
 
-        /* Diferentes delays para cada palavra */
-        .matrix-effect span:nth-child(1) {
-            animation-delay: 100ms;
+      /* Diferentes delays para cada palavra */
+      .matrix-effect span:nth-child(1) {
+          animation-delay: 100ms;
 
-        }
-        .matrix-effect span:nth-child(2) {
-            animation-delay: 200ms;
-        }
-        .matrix-effect span:nth-child(3) {
-            animation-delay: 300ms;
-            color: var(--matrix_effect_color2);
-        }
-        .matrix-effect span:nth-child(4) {
-            animation-delay: 400ms;
-            color: var(--matrix_effect_color3);
-        }
-        .matrix-effect span:nth-child(5) {
-            animation-delay: 500ms;
-            color: var(--matrix_effect_color4);
-        }
+      }
+      .matrix-effect span:nth-child(2) {
+          animation-delay: 200ms;
+      }
+      .matrix-effect span:nth-child(3) {
+          animation-delay: 300ms;
+          color: var(--matrix_effect_color2);
+      }
+      .matrix-effect span:nth-child(4) {
+          animation-delay: 400ms;
+          color: var(--matrix_effect_color3);
+      }
+      .matrix-effect span:nth-child(5) {
+          animation-delay: 500ms;
+          color: var(--matrix_effect_color4);
+      }
 
-        
-      </style>
+      
+    </style>
 
-      <div class="background_tittle">
-        <div class="matrix-effect">
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-        </div>
-        <div class="matrix-effect">
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-        </div>
-        <div class="matrix-effect">
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-        </div>
-        <div class="matrix-effect">
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-        </div>
-        <div class="matrix-effect">
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-        </div>
-        <div class="matrix-effect">
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-        </div>
-        <div class="matrix-effect">
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-        </div>
-        <div class="matrix-effect">
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-        </div>
-        <div class="matrix-effect">
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-        </div>
-        <div class="matrix-effect">
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-        </div>
-        <div class="matrix-effect">
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-        </div>
-        <div class="matrix-effect">
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-         <span><p>  D a v i</p></span>
-        </div>
-
-        <div class="tittle">
-          <h1> Hi there! My name is Davi Santos </h1>
-          <h2> I'm a junior programmer and i love learning :)</h2>
-        </div>
-
-       </div>
+    <div class="background_tittle">
+      <div class="matrix-effect">
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
       </div>
-  </foreignObject>  
+      <div class="matrix-effect">
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+      </div>
+      <div class="matrix-effect">
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+      </div>
+      <div class="matrix-effect">
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+      </div>
+      <div class="matrix-effect">
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+      </div>
+      <div class="matrix-effect">
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+      </div>
+      <div class="matrix-effect">
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+      </div>
+      <div class="matrix-effect">
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+      </div>
+      <div class="matrix-effect">
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+      </div>
+      <div class="matrix-effect">
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+      </div>
+      <div class="matrix-effect">
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+      </div>
+      <div class="matrix-effect">
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+       <span><p>  D a v i</p></span>
+      </div>
+
+      <div class="tittle">
+        <h1> Hi there! My name is Davi Santos </h1>
+        <h2> I'm a junior programmer and i love learning :)</h2>
+      </div>
+
+     </div>
+    </div> 
 </svg>

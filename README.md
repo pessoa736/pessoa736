@@ -67,6 +67,9 @@
         <a href="https://luarocks.org/">
             <img src="https://luarocks.org/static/logo.svg" height="48px" />
         </a>
+        <a href="https://xmake.io/#/">
+            <img src="https://xmake.io/assets/img/logo.svg" height="48px" />
+        </a>
       </td>
     </tr>
     <tr>

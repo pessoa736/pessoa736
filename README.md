@@ -73,7 +73,15 @@
       </td>
     </tr>
     <tr>
-      <th scope="row">use to pass the time</th>
+      <th scope="row">I am learning</th>
+      <td justify-components="center"> 
+        <a href="https://laravel.com/img/logomark.min.svg">
+            <img src="https://laravel.com/img/logomark.min.svg"  width="48px" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">My pastime</th>
       <td justify-components="center"> 
         <a href="https://tic80.com/">
             <img src="https://tic80.com/img/logo64.png" width="48px">

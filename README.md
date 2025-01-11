@@ -24,6 +24,9 @@
     <tr>
       <th scope="row">no difficulties</th>
       <td>
+        <a href="https://git-scm.com/downloads">
+            <img src="https://git-scm.com/images/logo@2x.png"  width="48px"/>
+        </a>
         <a href="https://www.gnu.org/software/bash/">
             <img src="./imagem/bash.svg" width="48px"  />
         </a>
@@ -47,13 +50,18 @@
       </td>
     </tr>
     <tr>
+      <th scope="row">I am learning</th>
+      <td justify-components="center"> 
+        <a href="https://laravel.com/img/logomark.min.svg">
+            <img src="https://laravel.com/img/logomark.min.svg"  width="48px" />
+        </a>
+      </td>
+    </tr>
+    <tr>
       <th scope="row">I know the basics</th>
       <td justify-components="center"> 
         <a href="https://react.dev/">
             <img src="./imagem/react.svg"  width="48px" />
-        </a>
-        <a href="https://git-scm.com/downloads">
-            <img src="https://git-scm.com/images/logo@2x.png"  width="48px"/>
         </a>
         <a href="https://www.npmjs.com/">
             <img src="./imagem/npm.svg"  width="48px"/>
@@ -70,14 +78,8 @@
         <a href="https://xmake.io/#/">
             <img src="https://xmake.io/assets/img/logo.svg" height="48px" />
         </a>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">I am learning</th>
-      <td justify-components="center"> 
-        <a href="https://laravel.com/img/logomark.min.svg">
-            <img src="https://laravel.com/img/logomark.min.svg"  width="48px" />
-        </a>
+        <a href="https://www.apachefriends.org/pt_br/index.html">
+            <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" height="48px" >
       </td>
     </tr>
     <tr>

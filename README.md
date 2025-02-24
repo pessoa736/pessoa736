@@ -30,9 +30,6 @@
     <a href="https://code.visualstudio.com/">
         <img src="./imagem/vscode.svg" width="48px" />
     </a>
-    <a href="https://laravel.com/img/logomark.min.svg">
-        <img src="https://laravel.com/img/logomark.min.svg"  width="48px" />
-    </a>
     <a href="https://react.dev/">
         <img src="./imagem/react.svg"  width="48px" />
     </a>

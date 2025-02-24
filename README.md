@@ -51,13 +51,10 @@
     <a href="https://xmake.io/#/">
         <img src="https://xmake.io/assets/img/logo.svg" height="48px" />
     </a>
-    <a href="https://www.apachefriends.org/pt_br/index.html">
-        <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" height="48px" >
-    </a>
     <a href="https://tic80.com/">
         <img src="https://tic80.com/img/logo64.png" width="48px">
     </a>
-</div>
+</div><br>
 ## my status :D
 <div display="center" align="center"><br>
     <div display="flex" align="center">

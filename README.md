@@ -3,96 +3,61 @@
 </div><br>
 
 ## Languages/tools ​​I know how to use
-
-
-<table>
-  <thread>
-    <tr>
-      <th scope="col">skill level (self-assessed by me)</th>
-      <th scope="col">tools and languages</th>
-    </tr>
-  </thread>
-  <tbody>
-    <tr>
-      <th scope="row">fully understanding</th>
-      <td>
-        <a href="https://www.lua.org/home.html">
-            <img src="https://avatars.githubusercontent.com/u/2319114?s=50&v=4" width="48px"  />
-        </a>
-      </td>
-    </tr> 
-    <tr>
-      <th scope="row">no difficulties</th>
-      <td>
-        <a href="https://git-scm.com/downloads">
-            <img src="https://git-scm.com/images/logo@2x.png"  width="48px"/>
-        </a>
-        <a href="https://www.gnu.org/software/bash/">
-            <img src="./imagem/bash.svg" width="48px"  />
-        </a>
-        <a href="https://www.python.org/">
-            <img src="https://avatars.githubusercontent.com/u/1525981?s=50&v=4" width="48px"  />
-        </a>
-        <a href="https://www.php.net/">
-            <img src="https://avatars.githubusercontent.com/u/25158?s=50&v=4"  width="48px" />
-        </a>
-        <a href="https://nodejs.org/">
-            <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg"  width="48px"/>
-        </a>
-        <a href="https://github.com/">
-            <img src="./imagem/github.svg" width="48px" />
-        </a>
-        <img src="./imagem/css.svg" width="48px" />
-        <img src="./imagem/javascript.svg"  width="48px" />
-        <a href="https://code.visualstudio.com/">
-            <img src="./imagem/vscode.svg" width="48px" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">I am learning</th>
-      <td justify-components="center"> 
-        <a href="https://laravel.com/img/logomark.min.svg">
-            <img src="https://laravel.com/img/logomark.min.svg"  width="48px" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">I know the basics</th>
-      <td justify-components="center"> 
-        <a href="https://react.dev/">
-            <img src="./imagem/react.svg"  width="48px" />
-        </a>
-        <a href="https://www.npmjs.com/">
-            <img src="./imagem/npm.svg"  width="48px"/>
-        </a>
-        <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
-            <img src="./imagem/vs2019.svg" width="48px" />
-        </a>
-        <a href="https://cmake.org/">
-            <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Logo.svg" height="48px" />
-        </a>
-        <a href="https://luarocks.org/">
-            <img src="https://luarocks.org/static/logo.svg" height="48px" />
-        </a>
-        <a href="https://xmake.io/#/">
-            <img src="https://xmake.io/assets/img/logo.svg" height="48px" />
-        </a>
-        <a href="https://www.apachefriends.org/pt_br/index.html">
-            <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" height="48px" >
-      </td>
-    </tr>
-    <tr>
-      <th scope="row">My pastime</th>
-      <td justify-components="center"> 
-        <a href="https://tic80.com/">
-            <img src="https://tic80.com/img/logo64.png" width="48px">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table><br>
-
+<div>
+    <a href="https://www.lua.org/home.html">
+        <img src="https://avatars.githubusercontent.com/u/2319114?s=50&v=4" width="48px"  />
+    </a>
+    <a href="https://git-scm.com/downloads">
+        <img src="https://git-scm.com/images/logo@2x.png"  width="48px"/>
+    </a>
+    <a href="https://www.gnu.org/software/bash/">
+        <img src="./imagem/bash.svg" width="48px"  />
+    </a>
+    <a href="https://www.python.org/">
+        <img src="https://avatars.githubusercontent.com/u/1525981?s=50&v=4" width="48px"  />
+    </a>
+    <a href="https://www.php.net/">
+        <img src="https://avatars.githubusercontent.com/u/25158?s=50&v=4"  width="48px" />
+    </a>
+    <a href="https://nodejs.org/">
+        <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg"  width="48px"/>
+    </a>
+    <a href="https://github.com/">
+        <img src="./imagem/github.svg" width="48px" />
+    </a>
+    <img src="./imagem/css.svg" width="48px" />
+    <img src="./imagem/javascript.svg"  width="48px" />
+    <a href="https://code.visualstudio.com/">
+        <img src="./imagem/vscode.svg" width="48px" />
+    </a>
+    <a href="https://laravel.com/img/logomark.min.svg">
+        <img src="https://laravel.com/img/logomark.min.svg"  width="48px" />
+    </a>
+    <a href="https://react.dev/">
+        <img src="./imagem/react.svg"  width="48px" />
+    </a>
+    <a href="https://www.npmjs.com/">
+        <img src="./imagem/npm.svg"  width="48px"/>
+    </a>
+    <a href="https://visualstudio.microsoft.com/pt-br/downloads/">
+        <img src="./imagem/vs2019.svg" width="48px" />
+    </a>
+    <a href="https://cmake.org/">
+        <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Logo.svg" height="48px" />
+    </a>
+    <a href="https://luarocks.org/">
+        <img src="https://luarocks.org/static/logo.svg" height="48px" />
+    </a>
+    <a href="https://xmake.io/#/">
+        <img src="https://xmake.io/assets/img/logo.svg" height="48px" />
+    </a>
+    <a href="https://www.apachefriends.org/pt_br/index.html">
+        <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" height="48px" >
+    </a>
+    <a href="https://tic80.com/">
+        <img src="https://tic80.com/img/logo64.png" width="48px">
+    </a>
+</div>
 ## my status :D
 <div display="center" align="center"><br>
     <div display="flex" align="center">

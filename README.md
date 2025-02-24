@@ -51,6 +51,9 @@
     <a href="https://tic80.com/">
         <img src="https://tic80.com/img/logo64.png" width="48px">
     </a>
+    <a href="https://nextjs.org/">
+        <img src="./imagem/nextjs.svg" width="48px">
+    </a>
 </div><br>
 
 ## my status :D

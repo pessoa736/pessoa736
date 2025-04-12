@@ -3,10 +3,9 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         :root{
-          --bg_g: linear-gradient( #000, #333);
-          --fg_c: #000;
-          --b: 3px solid #fff ;
-          --s: -5px 10px #fff, -5px 10px 15px #000;
+          --bg_g: linear-gradient(135deg, #ff3366, #33bbff);
+          --b: 3px solid #999 ;
+          --s: -5px 5px 15px #000;
         }
         *{
           margin: 0px;
@@ -15,26 +14,31 @@
         }
         .main{
           color: #fff;
-          border-radius: 8px;
           text-align: center;
+          width: 100%;
           margin: 2%;
           padding: 3%;
-
-        }
-        .container {
-          background-color: var(--fg_c);
+          
           justify-content: center;
           align-content: center;
+        }
+        .container {
+          background: var(--bg_g);
           max-width: 600px;
           max-height: 200px;
           min-height: 155px;
           margin: 15px;
           box-shadow: var(--s);
           border: var(--b);
-          border-radius: 8px;
+        }
+        .windows-header{
+          border: var(--b);
+          background-color: #999;
+          height: 15px;
         }
       </style>
       <div class="container">
+        <div class="windows-header"></div>
         <section class="main">
           <h1>Hi there, i'm Davi</h1>
         </section>

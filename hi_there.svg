@@ -4,7 +4,9 @@
       <style>
         :root{
           --bg_g: linear-gradient( #000, #333);
-          --fg_c: #fff;
+          --fg_c: #000;
+          --b: 3px solid #fff ;
+          --s: -5px 10px #fff;
         }
         *{
           margin: 0px;
@@ -12,11 +14,14 @@
           font-family: "Comic Sans MT", sans-serif;
         }
         .main{
+          color: #fff;
           background-color: var(--fg_c);
           border-radius: 8px;
           text-align: center;
           margin: 2%;
           padding: 3%;
+          shadow-box:var(--s);
+          border: var(--b);
 
         }
         .container {

@@ -27,7 +27,7 @@
           align-content: center;
           max-width: 600px;
           max-height: 200px;
-          min-height: 160px;
+          min-height: 155px;
           margin: 15px;
           box-shadow: var(--s);
           border: var(--b);

@@ -6,7 +6,7 @@
           --bg_g: linear-gradient( #000, #333);
           --fg_c: #000;
           --b: 3px solid #fff ;
-          --s: -5px 10px #fff;
+          --s: -5px 10px #fff, -5px 10px 30px #000;
         }
         *{
           margin: 0px;
@@ -15,21 +15,23 @@
         }
         .main{
           color: #fff;
-          background-color: var(--fg_c);
           border-radius: 8px;
           text-align: center;
           margin: 2%;
           padding: 3%;
-          box-shadow: var(--s);
-          border: var(--b);
 
         }
         .container {
-          background: var(--bg_g);
+          background-color: var(--fg_c);
           justify-content: center;
           align-content: center;
-          width: 600px;
-          height: 200px;
+          max-width: 600px;
+          max-height: 200px;
+          min-height: 160px;
+          margin: 10px;
+          box-shadow: var(--s);
+          border: var(--b);
+          border-radius: 8px;
         }
       </style>
       <div class="container">

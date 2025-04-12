@@ -6,12 +6,17 @@
           --bg_g: linear-gradient( #000, #333);
           --fg_c: #fff;
         }
+        *{
+          margin: 0px;
+          padding: 0px;
+          font-family: "Comic Sans MT", sans-serif;
+        }
         .main{
           background-color: var(--fg_c);
           border-radius: 8px;
-          
+          text-align: center;
           margin: 2%;
-          padding: 1%;
+          padding: 3%;
 
         }
         .container {

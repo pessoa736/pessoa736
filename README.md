@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="hi_there.svg" />
+    <img src="hi_there.svg"  width="100%" height="100%">
 </div><br>
 
 ## Languages/tools ​​I know how to use

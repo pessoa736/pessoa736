@@ -8,16 +8,20 @@
         }
         .main{
           background-color: var(--fg_c);
+          border-radius: 8px;
+          margin: 5px;
         }
-        body {
+        .container {
           background: var(--bg_g);
+          width: 600px;
+          height: 200px;
         }
       </style>
-      <body>
+      <div class="container">
         <section class="main">
           <h1>Hi there, i'm Davi</h1>
         </section>
-      </body>
+      </div>
     </div>
   </foreignObject>
 </svg>

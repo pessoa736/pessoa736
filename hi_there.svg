@@ -20,7 +20,7 @@
           text-align: center;
           margin: 2%;
           padding: 3%;
-          shadow-box:var(--s);
+          box-shadow: var(--s);
           border: var(--b);
 
         }

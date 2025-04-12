@@ -1,180 +1,23 @@
 <svg fill="none" viewBox="0 0 600 200" width="600px" height="200px" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="600px" height="200px">
+  <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         :root{
-          --font_color: #000000;
-          --font_background_color: #ffffff;
-          
-          --matrix_effect_color1: #444444;
-          --matrix_effect_color2: #888888;
-          --matrix_effect_color3: #cccccc;
-          --matrix_effect_color4: #ffffff;
+          --bg_g: linear-gradient(90deg, #000, #333);
+          --fg_c: #fff;
         }
-        
-        @keyframes char{
-          0%{
-            transform: translateY(0px);
-          }
-          100%{
-            transform: translateY(40px);
-          }
+        .main{
+          background-color: var(--fg_c);
         }
-        
-        * {
-          margin: 0;
-          padding: 0;
-          border-radius: 8px;
-        }
-        
-        .tittle {         
-          height: 50%;
-          width: 70%;
-          color: var(--font_color);
-          background-color: var(--font_background_color);
-          position: fixed;
-          font-weight: 900;
-          justify-self: center;
-          align-self: center;  
-          text-align: center;
-          left: 10%;
-          right: 10%;
-        }
-        
-        .tittle h1 { font-size: 14pt;  }
-        .tittle h2 { font-size: 12pt;  }
-        
-        .matrix-effect { 
-          position: relative;
-        }
-        
-        .matrix-effect p {
-          line-height: 1;
-          position: relative;
-        }
-        
-        .matrix-effect span { 
-          display: block;
-          width: 2vmax;
-          height: 2vmax;
-          font-size: 2vmax;
-          opacity: 1;
-          color: var(--matrix_effect_color1);
-          text-align: center;
-          animation: char 1s infinite;
-        }
-        
-        .background_tittle {
-          --background_color: linear-gradient(-15deg, #333, #000);
-          background: var(--background_color);
-          display: flex;
-          justify-content: center;
-          height: 100%;
-          font-family: "Comic Sans MT", sans-serif;
-          position: relative;
-        }
-        
-        /* Exemplos de transformações para o matrix-effect */
-        .matrix-effect:nth-child(1){ transform: translateX(-290px) translateY(100px); }
-        .matrix-effect:nth-child(2){ transform: translateX(-56px) translateY(-197px); }
-        .matrix-effect:nth-child(3){ transform: translateX(-27px) translateY(-20px); }
-        .matrix-effect:nth-child(4){ transform: translateX(-156px) translateY(30px); }
-        .matrix-effect:nth-child(5){ transform: translateX(-32px) translateY(100px); }
-        .matrix-effect:nth-child(6){ transform: translateX(-120px) translateY(40px); }
-        .matrix-effect:nth-child(7){ animation-delay: 3s; transform: translateX(-10px) translateY(100px); }
-        .matrix-effect:nth-child(8){ animation-delay: 3s; transform: translateX(-30px) translateY(-70px); }
-        .matrix-effect:nth-child(9){ animation-delay: 3s; transform: translateX(70px) translateY(-80px); }
-        .matrix-effect:nth-child(10){ animation-delay: 3s; transform: translateX(90px) translateY(40px); }
-        .matrix-effect:nth-child(11){ animation-delay: 3s; transform: translateX(-310px) translateY(190px); }
-        .matrix-effect:nth-child(12){ animation-delay: 3s; transform: translateX(-150px) translateY(10px); }
-        
-        /* Diferentes delays para cada letra */
-        .matrix-effect span:nth-child(1) { animation-delay: 100ms; }
-        .matrix-effect span:nth-child(2) { animation-delay: 200ms; }
-        .matrix-effect span:nth-child(3) { animation-delay: 300ms; color: var(--matrix_effect_color2); }
-        .matrix-effect span:nth-child(4) { animation-delay: 400ms; color: var(--matrix_effect_color3); }
-        .matrix-effect span:nth-child(5) { animation-delay: 500ms; color: var(--matrix_effect_color4); }
-        
-        /* Estilo para a seção de habilidades */
-        .skills {
-          margin-top: 120px; /* desloca abaixo da seção de título */
-          padding: 10px;
-          border: 2px solid #000;
-          border-radius: 8px;
-          background-color: #ffffff;
-          color: #000;
-          font-family: Arial, sans-serif;
-          text-align: center;
-          width: 80%;
-          position: relative;
-          left: 10%;
-        }
-        .skills h3 {
-          margin: 0 0 8px 0;
-          font-size: 16pt;
-        }
-        .skills ul {
-          list-style: none;
-          padding: 0;
-          margin: 0;
-        }
-        .skills ul li {
-          display: inline-block;
-          margin: 0 5px;
-          font-size: 12pt;
+        body {
+          background: var(--bg_g);
         }
       </style>
-      
-      <!-- Área do Background com efeito Matrix e título -->
-      <div class="background_tittle">
-        <div class="matrix-effect">
-          <span><p>D a v i</p></span>
-          <span><p>D a v i</p></span>
-          <span><p>D a v i</p></span>
-          <span><p>D a v i</p></span>
-          <span><p>D a v i</p></span>
-        </div>
-        <div class="matrix-effect">
-          <span><p>D a v i</p></span>
-          <span><p>D a v i</p></span>
-          <span><p>D a v i</p></span>
-          <span><p>D a v i</p></span>
-          <span><p>D a v i</p></span>
-        </div>
-        <div class="matrix-effect">
-          <span><p>D a v i</p></span>
-          <span><p>D a v i</p></span>
-          <span><p>D a v i</p></span>
-          <span><p>D a v i</p></span>
-          <span><p>D a v i</p></span>
-        </div>
-        <div class="matrix-effect">
-          <span><p>D a v i</p></span>
-          <span><p>D a v i</p></span>
-          <span><p>D a v i</p></span>
-          <span><p>D a v i</p></span>
-          <span><p>D a v i</p></span>
-        </div>
-        
-        <!-- Caixa do Título -->
-        <div class="tittle">
-          <h1>Hi there! My name is Davi</h1>
-          <h2>I'm a junior programmer and I love learning :)</h2>
-        </div>
-      </div>
-      
-      <!-- Nova seção para linguagens, ferramentas e frameworks -->
-      <div class="skills">
-        <h3>Skills & Tools</h3>
-        <ul>
-          <li>JavaScript</li>
-          <li>Python</li>
-          <li>Java</li>
-          <li>React</li>
-          <li>Node.js</li>
-          <li>Git</li>
-        </ul>
-      </div>
+      <body>
+        <section class="main">
+          <h1>Hi there, i'm Davi</h1>
+        </section>
+      </body>
     </div>
   </foreignObject>
 </svg>

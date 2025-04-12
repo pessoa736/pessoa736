@@ -9,10 +9,15 @@
         .main{
           background-color: var(--fg_c);
           border-radius: 8px;
-          margin: 5px;
+          
+          margin: 2%;
+          padding: 1%;
+
         }
         .container {
           background: var(--bg_g);
+          justify-content: center;
+          align-content: center;
           width: 600px;
           height: 200px;
         }

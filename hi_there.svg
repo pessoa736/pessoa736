@@ -6,7 +6,7 @@
           --bg_g: linear-gradient( #000, #333);
           --fg_c: #000;
           --b: 3px solid #fff ;
-          --s: -5px 10px #fff, -5px 10px 30px #000;
+          --s: -5px 10px #fff, -5px 10px 20px #000;
         }
         *{
           margin: 0px;

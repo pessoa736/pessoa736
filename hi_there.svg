@@ -1,3 +1,9 @@
 <svg fill="none" viewBox="0 0 600 200" width="600px" height="200px" xmlns="http://www.w3.org/2000/svg">
-  <rect x="-5" y="5" widht="595" height="195" color="#000" />
+  <style>
+    .container{
+      border: 6px solid #000;
+    }
+  </style>
+  <rect class="container" x="0" y="5" fill="white" width="595" height="195" rx="5" ry="5" b />
 </svg>
+  

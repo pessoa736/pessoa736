@@ -13,9 +13,6 @@
     <a href="https://www.python.org/">
         <img src="https://avatars.githubusercontent.com/u/1525981?s=50&v=4" width="48px"  />
     </a>
-    <a href="https://www.php.net/">
-        <img src="https://avatars.githubusercontent.com/u/25158?s=50&v=4"  width="48px" />
-    </a>
     <a href="https://nodejs.org/">
         <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg"  width="48px"/>
     </a>

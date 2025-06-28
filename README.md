@@ -7,3 +7,15 @@
         <img style="height: 12.5em; maxwidth: 100%: 0" src="https://github-readme-stats.vercel.app/api?username=pessoa736&show_icons=true&background=80%2C033100%2C0A56" alt=Davi/>
         <img style="height: 12.5em; maxwidth: 100%: 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=pessoa736&show_icons=true&layout=compact" alt="Davi" />
 </div>
+
+## lenguages
+ ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![TS](https://img.shields.io/badge/TypeScript-E34F26?style=for-the-badge&logo=typescript&logoColor=white)
+ ![LUA](https://img.shields.io/badge/Lua-E34F26?style=for-the-badge&logo=lua&logoColor=white)
+ ![Dockefile](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ 
+
+## The IDE i use
+  <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>

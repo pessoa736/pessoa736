@@ -17,5 +17,5 @@
  ![Dockefile](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  
 
-## The IDE i use
-  <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+## IDE
+  <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/VScode-5C2D91?style=for-the-badge&logo=vscode&logoColor=white"/>

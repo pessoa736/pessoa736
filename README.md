@@ -14,7 +14,7 @@
  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![TS](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
  ![LUA](https://img.shields.io/badge/Lua-200099?style=for-the-badge&logo=lua&logoColor=white)
- ![Dockefile](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white)
+ ![Dockefile](https://img.shields.io/badge/Dockerfile-1572B6?style=for-the-badge&logo=docker&logoColor=white)
  
 
 ## IDE

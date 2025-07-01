@@ -8,16 +8,25 @@
         <img style="height: 12.5em; maxwidth: 100%: 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=pessoa736&show_icons=true&layout=compact" alt="Davi" />
 </div>
 
-## lenguages
+## Lenguages
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![TS](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
  ![LUA](https://img.shields.io/badge/Lua-200099?style=for-the-badge&logo=lua&logoColor=white)
+ ![LUA](https://img.shields.io/badge/python-339944?style=for-the-badge&logo=lua&logoColor=white)
  ![Dockefile](https://img.shields.io/badge/Dockerfile-1572B6?style=for-the-badge&logo=docker&logoColor=white)
  
-## frameworks
-  ![next.js](https://avatars.githubusercontent.com/u/126103961?s=50&v=4)
-  
+## Frameworks and tecnologies
+<div display="flex" style="gap: 5px; justify-content: center;">
+        <img src="https://avatars.githubusercontent.com/u/126103961?v=4" style="height: 50px" />
+        <img src="https://git-scm.com/images/logo@2x.png" style="height: 50px" />
+        <img src="https://avatars.githubusercontent.com/u/6078720?v=4" style="height: 50px" />
+        <img src="https://avatars.githubusercontent.com/u/9950313?&v=4" style="height: 50px" />
+        
+</div>
+
 ## IDE
-  <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/VScode-5C2D91?style=for-the-badge&logo=vscode&logoColor=white"/>
+  ![vscode](https://img.shields.io/badge/VScode-5C2D91?style=for-the-badge&logo=vscode&logoColor=white)
+  ![notepad](https://img.shields.io/badge/notepad++-339944?style=for-the-badge&logo=vscode&logoColor=white)
+  

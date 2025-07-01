@@ -23,6 +23,8 @@
         <img src="https://git-scm.com/images/logo@2x.png" style="height: 50px" />
         <img src="https://avatars.githubusercontent.com/u/6078720?v=4" style="height: 50px" />
         <img src="https://avatars.githubusercontent.com/u/9950313?&v=4" style="height: 50px" />
+        <img src="https://avatars.githubusercontent.com/u/54212428?" style="height: 50px" />
+        <img src="https://jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" style="height: 50px" />
         
 </div>
 

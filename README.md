@@ -16,6 +16,8 @@
  ![LUA](https://img.shields.io/badge/Lua-200099?style=for-the-badge&logo=lua&logoColor=white)
  ![Dockefile](https://img.shields.io/badge/Dockerfile-1572B6?style=for-the-badge&logo=docker&logoColor=white)
  
-
+## frameworks
+  ![next.js](https://avatars.githubusercontent.com/u/126103961?s=50&v=4)
+  
 ## IDE
   <img align="center" alt="Visual Studio" src="https://img.shields.io/badge/VScode-5C2D91?style=for-the-badge&logo=vscode&logoColor=white"/>

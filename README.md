@@ -19,8 +19,8 @@
  
 ## Frameworks and tecnologies
 <div display="flex" style="gap: 5px; justify-content: center;">
-        <img src="https://fontawesome.com/icons/react?f=brands&s=solid" style="height: 50px" />
-        <img src="https://avatars.githubusercontent.com/u/126103961?v=4" style="height: 50px" />
+        <img width="3619" height="3619" alt="react" src="https://github.com/user-attachments/assets/f8f8ccf0-1716-439b-87ac-b9523896f58f" style="width: 50px" />
+        <img src="https://avatars.githubusercontent.com/u/126103961?v=4" alt="nextjs" style="height: 50px" />
         <img src="https://git-scm.com/images/logo@2x.png" style="height: 50px" />
         <img src="https://avatars.githubusercontent.com/u/6078720?v=4" style="height: 50px" />
         <img src="https://avatars.githubusercontent.com/u/9950313?&v=4" style="height: 50px" />

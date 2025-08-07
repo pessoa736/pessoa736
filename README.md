@@ -20,6 +20,7 @@
 ## Frameworks and tecnologies
 <div display="flex" style="gap: 5px; justify-content: center;">
         <img alt="react" src="https://github.com/user-attachments/assets/f8f8ccf0-1716-439b-87ac-b9523896f58f" style="width: 50px" />
+        <img alt="image" src="https://github.com/user-attachments/assets/5ac8438b-7f4f-4a35-95de-24de7cdb5b0b" style="width: 50px" />
         <img src="https://avatars.githubusercontent.com/u/126103961?v=4" alt="nextjs" style="height: 50px" />
         <img src="https://git-scm.com/images/logo@2x.png" style="height: 50px" />
         <img src="https://avatars.githubusercontent.com/u/6078720?v=4" style="height: 50px" />

@@ -19,7 +19,6 @@
  
 ## Frameworks and tecnologies
 <div display="flex" style="gap: 5px; justify-content: center;">
-        <img alt="nodejs" src="https://github.com/user-attachments/assets/ca8bdf12-9b9c-42ce-bb68-af7736b366e2" style="width: 50px" />
         <img alt="react" src="https://github.com/user-attachments/assets/f8f8ccf0-1716-439b-87ac-b9523896f58f" style="width: 50px" />
         <img src="https://avatars.githubusercontent.com/u/126103961?v=4" alt="nextjs" style="height: 50px" />
         <img src="https://git-scm.com/images/logo@2x.png" style="height: 50px" />

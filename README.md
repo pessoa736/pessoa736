@@ -2,12 +2,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xpudding736/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-dos-santos-passos-b80089317/)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img  align="center  src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img align="center" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=15" />
+<a align="center" justify="center" href="https://github.com/anuraghazra/github-readme-stats">
+ <img height=200 src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true" />
+ <img height=200 src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=8" />
 </a>
 
 ## Lenguages

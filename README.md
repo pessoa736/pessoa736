@@ -3,6 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-dos-santos-passos-b80089317/)
 
 
+[![Minhas estatísticas](https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Lenguages
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

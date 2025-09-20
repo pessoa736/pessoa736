@@ -1,22 +1,22 @@
 # Hi there! I'm Davi 👋👋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xpudding736/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-dos-santos-passos-b80089317/)
+[![Instagram](https://img.shields.io/badge/Instagram-E9D8D4?style=for-the-badge&logo=instagram&logoColor=862931)](https://www.instagram.com/xpudding736/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-E9D8D4?style=for-the-badge&logo=linkedin&logoColor=862931)](https://www.linkedin.com/in/davi-dos-santos-passos-b80089317/)
 
 <div style="justify-content: center; width: 100%">
- <a align="center" justify="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true" />
-  <img height=200 src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=8" />
+ <a style="justify-content: center; width: 100%" href="https://github.com/anuraghazra/github-readme-stats">
+  <img style="height: 300px" src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true&theme=rose&show=reviews,discussions_started,discussions_answered,prs_merged&card_width=500&include_all_commits=true&rank_icon=github" />
+  <img style="height: 300px" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=20&theme=rose&card_width=400" />
  </a>
 </div>
 
 ## Lenguages
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
- ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![TS](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
- ![LUA](https://img.shields.io/badge/Lua-200099?style=for-the-badge&logo=lua&logoColor=white)
- ![Python](https://img.shields.io/badge/python-339944?style=for-the-badge&logo=lua&logoColor=white)
- ![Dockefile](https://img.shields.io/badge/Dockerfile-1572B6?style=for-the-badge&logo=docker&logoColor=white)
+ ![HTML](https://img.shields.io/badge/HTML5-E9D8D4?style=for-the-badge&logo=html5&logoColor=862931)
+ ![CSS](https://img.shields.io/badge/CSS3-E9D8D4?style=for-the-badge&logo=css&logoColor=862931)
+ ![JS](https://img.shields.io/badge/JavaScript-E9D8D4?style=for-the-badge&logo=javascript&logoColor=862931)
+ ![TS](https://img.shields.io/badge/TypeScript-E9D8D4?style=for-the-badge&logo=typescript&logoColor=862931)
+ ![LUA](https://img.shields.io/badge/Lua-E9D8D4?style=for-the-badge&logo=lua&logoColor=862931)
+ ![Python](https://img.shields.io/badge/python-E9D8D4?style=for-the-badge&logo=lua&logoColor=862931)
+ ![Dockefile](https://img.shields.io/badge/Dockerfile-E9D8D4?style=for-the-badge&logo=docker&logoColor=862931)
  
  
  
@@ -34,6 +34,6 @@
 </div>
 
 ## IDE
-  ![vscode](https://img.shields.io/badge/VScode-5C2D91?style=for-the-badge&logo=vscode&logoColor=white)
-  ![notepad](https://img.shields.io/badge/notepad++-339944?style=for-the-badge&logo=vscode&logoColor=white)
+  ![vscode](https://img.shields.io/badge/VScode-E9D8D4?style=for-the-badge&logo=vscode&logoColor=862931)
+  ![notepad](https://img.shields.io/badge/notepad++-E9D8D4?style=for-the-badge&logo=vscode&logoColor=862931)
   

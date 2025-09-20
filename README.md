@@ -16,7 +16,6 @@
  ![Python](https://img.shields.io/badge/python-339944?style=for-the-badge&logo=lua&logoColor=white)
  ![Dockefile](https://img.shields.io/badge/Dockerfile-1572B6?style=for-the-badge&logo=docker&logoColor=white)
  
- ![Top Langs]()
  
  
 ## Frameworks and tecnologies

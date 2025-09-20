@@ -2,8 +2,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xpudding736/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-dos-santos-passos-b80089317/)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img  align="center  src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true" />
+</a>
 
-[![Minhas estatísticas](https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img align="center" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=15" />
+</a>
 
 ## Lenguages
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,7 +19,7 @@
  ![Python](https://img.shields.io/badge/python-339944?style=for-the-badge&logo=lua&logoColor=white)
  ![Dockefile](https://img.shields.io/badge/Dockerfile-1572B6?style=for-the-badge&logo=docker&logoColor=white)
  
- ![Top Langs](https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736\&layout=compact)
+ ![Top Langs]()
  
  
 ## Frameworks and tecnologies

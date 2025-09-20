@@ -14,6 +14,9 @@
  ![Python](https://img.shields.io/badge/python-339944?style=for-the-badge&logo=lua&logoColor=white)
  ![Dockefile](https://img.shields.io/badge/Dockerfile-1572B6?style=for-the-badge&logo=docker&logoColor=white)
  
+ ![Top Langs](https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736\&layout=compact)
+ 
+ 
 ## Frameworks and tecnologies
 <div display="flex" style="gap: 5px; justify-content: center;">
         <img alt="react" src="https://github.com/user-attachments/assets/f8f8ccf0-1716-439b-87ac-b9523896f58f" style="width: 50px" />

@@ -23,7 +23,7 @@
 <div style="justify-content: center; width: 100%">
  <a style="justify-content: center; width: 100%" href="https://github.com/anuraghazra/github-readme-stats">
   <img style="height: 300px" src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true&theme=rose&show=reviews,discussions_started,discussions_answered,prs_merged&card_width=425&" />
-  <img style="height: 300px" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=20&theme=rose&card_width=325&v=3" />
+  <img style="height: 300px" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=20&theme=rose&card_width=325&v=2" />
  </a>
 </div>
 

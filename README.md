@@ -15,7 +15,7 @@
  
 ## IDE
   ![vscode](https://img.shields.io/badge/VScode-E9D8D4?style=for-the-badge&logo=vscode&logoColor=862931)
-  ![notepad](https://img.shields.io/badge/notepad++-E9D8D4?style=for-the-badge&logo=vscode&logoColor=862931)
+  ![nvim](https://img.shields.io/badge/Neovim-E9D8D4?style=for-the-badge&logo=vscode&logoColor=862931)
   
 
 ## My Stats

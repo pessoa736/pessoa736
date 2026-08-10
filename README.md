@@ -2,13 +2,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E9D8D4?style=for-the-badge&logo=instagram&logoColor=862931)](https://www.instagram.com/xpudding736/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-E9D8D4?style=for-the-badge&logo=linkedin&logoColor=862931)](https://www.linkedin.com/in/davi-dos-santos-passos-b80089317/)
 
-## Lenguages
- ![HTML](https://img.shields.io/badge/HTML5-E9D8D4?style=for-the-badge&logo=html5&logoColor=862931)
- ![CSS](https://img.shields.io/badge/CSS3-E9D8D4?style=for-the-badge&logo=css&logoColor=862931)
+- 💻 Tech enthusiast & computer lover
+- 🎨 Aspiring artist in my free time
+
+## languages
+ ![RUST](https://img.shields.io/badge/Rust-E9D8D4?style=for-the-badge&logo=Rust&logoColor=862931)
  ![JS](https://img.shields.io/badge/JavaScript-E9D8D4?style=for-the-badge&logo=javascript&logoColor=862931)
  ![TS](https://img.shields.io/badge/TypeScript-E9D8D4?style=for-the-badge&logo=typescript&logoColor=862931)
  ![LUA](https://img.shields.io/badge/Lua-E9D8D4?style=for-the-badge&logo=lua&logoColor=862931)
- ![Python](https://img.shields.io/badge/python-E9D8D4?style=for-the-badge&logo=lua&logoColor=862931)
  ![Dockefile](https://img.shields.io/badge/Dockerfile-E9D8D4?style=for-the-badge&logo=docker&logoColor=862931)
  
  

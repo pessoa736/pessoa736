@@ -5,19 +5,11 @@
 - 💻 Tech enthusiast & computer lover
 - 🎨 Aspiring artist in my free time
 
-## languages
+## favorite languages
  ![RUST](https://img.shields.io/badge/Rust-E9D8D4?style=for-the-badge&logo=Rust&logoColor=862931)
- ![JS](https://img.shields.io/badge/JavaScript-E9D8D4?style=for-the-badge&logo=javascript&logoColor=862931)
  ![TS](https://img.shields.io/badge/TypeScript-E9D8D4?style=for-the-badge&logo=typescript&logoColor=862931)
  ![LUA](https://img.shields.io/badge/Lua-E9D8D4?style=for-the-badge&logo=lua&logoColor=862931)
- ![Dockefile](https://img.shields.io/badge/Dockerfile-E9D8D4?style=for-the-badge&logo=docker&logoColor=862931)
- 
- 
- 
-## IDE
-  ![vscode](https://img.shields.io/badge/VScode-E9D8D4?style=for-the-badge&logo=vscode&logoColor=862931)
-  ![nvim](https://img.shields.io/badge/Neovim-E9D8D4?style=for-the-badge&logo=vscode&logoColor=862931)
-  
+   
 
 ## My Stats
 

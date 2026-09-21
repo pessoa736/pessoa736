@@ -15,10 +15,10 @@
 
 <div>
  <a style="text-decoration: none; heigth: 300px; max-heigth: 300px; min-height: 300px" href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="text-decoration: none; heigth: 300px; max-heigth: 300px; min-height: 300px" src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true&theme=rose&show=reviews,discussions_started,discussions_answered,prs_merged&card_width=425&" />
-  <img style="text-decoration: none; heigth: 300px;  max-heigth: 300px; min-height: 300px" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=20&theme=rose&card_width=425&v=6&cache_seconds=21600" />
+  <img style="text-decoration: none; heigth: 300px;" src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true&theme=rose&show=reviews,discussions_started,discussions_answered,prs_merged" />
+  <img style="text-decoration: none; heigth: 300px;" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=16&theme=rose&card_width=325&v=6&cache_seconds=21600" />
  </a>
 </div>
-<a  style="text-decoration: none; heigth: 300px;  max-heigth: 300px; min-height: 300px" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-phi-peach-77.vercel.app?user=pessoa736&theme=rose&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=850&card_height=300" alt="GitHub Streak" /></a>
+<a  style="text-decoration: none; heigth: 300px;  max-heigth: 300px; min-height: 300px" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-phi-peach-77.vercel.app?user=pessoa736&theme=rose&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=800&card_height=300" alt="GitHub Streak" /></a>
 
 

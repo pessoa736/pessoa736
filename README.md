@@ -13,25 +13,12 @@
 
 ## My Stats
 
-<div style="justify-content: center; width: 100%">
- <a style="justify-content: center; width: 100%" href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="height: 300px" src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true&theme=rose&show=reviews,discussions_started,discussions_answered,prs_merged&card_width=425&" />
-  <img style="height: 300px" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=20&theme=rose&card_width=325&v=6&cache_seconds=21600" />
+<div>
+ <a style="text-decoration: none;" href="https://github.com/anuraghazra/github-readme-stats">
+  <img style="height: 300px" src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true&theme=rose&show=reviews,discussions_started,discussions_answered,prs_merged&card_width=450&" />
+  <img style="height: 300px" src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=20&theme=rose&card_width=450&v=6&cache_seconds=21600" />
  </a>
 </div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-phi-peach-77.vercel.app?user=pessoa736&theme=rose&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=860&card_height=300" alt="GitHub Streak" /></a>
 
 
-[comment]: <> (Frameworks and Tecnologies)
-
-<!--
-<div display="flex" style="gap: 5px; justify-content: center;">
-        <img alt="react" src="https://github.com/user-attachments/assets/f8f8ccf0-1716-439b-87ac-b9523896f58f" style="width: 50px" />
-        <img alt="image" src="https://github.com/user-attachments/assets/5ac8438b-7f4f-4a35-95de-24de7cdb5b0b" style="width: 50px" />
-        <img src="https://avatars.githubusercontent.com/u/126103961?v=4" alt="nextjs" style="height: 50px" />
-        <img src="https://git-scm.com/images/logo@2x.png" style="height: 50px" />
-        <img src="https://avatars.githubusercontent.com/u/6078720?v=4" style="height: 50px" />
-        <img src="https://avatars.githubusercontent.com/u/9950313?&v=4" style="height: 50px" />
-        <img src="https://avatars.githubusercontent.com/u/54212428?" style="height: 50px" />
-        <img src="https://jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=1920&q=75" style="height: 50px" />
-        
-</div> --!>

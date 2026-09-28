@@ -12,19 +12,17 @@
 
 ## My Stats
 
-<img src="https://github-readme-streak-stats-phi-peach-77.vercel.app?user=pessoa736&theme=rose&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="49%" />
+<div align="center">
+  <img src="https://github-readme-streak-stats-phi-peach-77.vercel.app?user=pessoa736&theme=rose&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="49%" />
+</div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
+
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true&theme=rose&show=reviews,discussions_started,discussions_answered,prs_merged" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true&theme=rose&show=reviews,discussions_started,discussions_answered,prs_merged" alt="GitHub Stats" width="49%" />
   </a>
-</td>
-<td width="50%" valign="top">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=16&theme=rose&v=6&cache_seconds=21600" alt="Top Languages" />
+    <img src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=16&theme=rose&v=6&cache_seconds=21600" alt="Top Languages" width="49%" />
   </a>
-</td>
-</tr>
-</table>
+</div>

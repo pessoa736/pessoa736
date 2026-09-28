@@ -12,13 +12,19 @@
 
 ## My Stats
 
-<img src="https://github-readme-streak-stats-phi-peach-77.vercel.app?user=pessoa736&theme=rose&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
+<img src="https://github-readme-streak-stats-phi-peach-77.vercel.app?user=pessoa736&theme=rose&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="49%" />
 
-<div style="display: flex; gap: 16px; align-items: stretch; justify-content: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none; flex: 1; min-width: 280px; max-width: 480px;">
-    <img src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true&theme=rose&show=reviews,discussions_started,discussions_answered,prs_merged" style="width: 100%; height: auto; display: block;" alt="GitHub Stats" />
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true&theme=rose&show=reviews,discussions_started,discussions_answered,prs_merged" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none; flex: 1; min-width: 280px; max-width: 480px;">
-    <img src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=16&theme=rose&v=6&cache_seconds=21600" style="width: 100%; height: auto; display: block;" alt="Top Languages" />
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=16&theme=rose&v=6&cache_seconds=21600" alt="Top Languages" />
   </a>
-</div>
+</td>
+</tr>
+</table>

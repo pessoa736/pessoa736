@@ -14,10 +14,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true&theme=rose&show=reviews,discussions_started,discussions_answered,prs_merged" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true&theme=rose&show=reviews,discussions_started,discussions_answered,prs_merged" alt="GitHub Stats" width="54.75%" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=8&theme=rose" alt="Top Languages" width="49%" />
+    <img src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=12&theme=rose" alt="Top Languages" width="43.25%" />
   </a>
 </div>
 

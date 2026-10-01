@@ -6,18 +6,26 @@
 - 🎨 Aspiring artist in my free time
 
 ## favorite languages
+<div align="center">
+ 
  ![RUST](https://img.shields.io/badge/Rust-E9D8D4?style=for-the-badge&logo=Rust&logoColor=862931)
  ![TS](https://img.shields.io/badge/TypeScript-E9D8D4?style=for-the-badge&logo=typescript&logoColor=862931)
  ![LUA](https://img.shields.io/badge/Lua-E9D8D4?style=for-the-badge&logo=lua&logoColor=862931)
+</div>
+
 
 ## My Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-nine-xi.vercel.app/api?username=pessoa736&show_icons=true&theme=rose&show=reviews,discussions_started,discussions_answered,prs_merged" alt="GitHub Stats" width="54.75%" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-nine-xi.vercel.app/api/top-langs/?username=pessoa736&layout=compact&langs_count=12&theme=rose" alt="Top Languages" width="43.25%" />
-  </a>
+ <a href="https://github-stats-extended.vercel.app/api?username=pessoa736&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=rose&border_radius=15&card_width=467">
+   <picture>
+     <img height="350" align="center" src="https://github-stats-extended.vercel.app/api?username=pessoa736&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=rose&border_radius=15&card_width=567" />
+   </picture>
+ </a>
+ <a href="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=567">
+   <picture>
+     <img height="350" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=pessoa736&layout=compact&langs_count=20&theme=rose&border_radius=15&card_width=467" />
+   </picture>
+ </a>
 </div>
 

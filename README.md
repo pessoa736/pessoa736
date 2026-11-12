@@ -16,15 +16,19 @@
 
 ## My Stats
 
+
+<div align="center">
+ <a href="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=10&card_width=267">
+   <picture>
+     <img height="300" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=pessoa736&layout=compact&langs_count=10&theme=rose&border_radius=15&card_width=300" />
+   </picture>
+ </a>
+</div>
+
 <div align="center">
  <a href="https://github-stats-extended.vercel.app/api?username=pessoa736&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=rose&border_radius=15&card_width=467">
    <picture>
-     <img height="300" align="center" src="https://github-stats-extended.vercel.app/api?username=pessoa736&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=rose&border_radius=15&card_width=467" />
-   </picture>
- </a>
- <a href="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=400">
-   <picture>
-     <img height="300" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=pessoa736&layout=compact&langs_count=10&theme=rose&border_radius=15&card_width=400" />
+     <img height="400" align="center" src="https://github-stats-extended.vercel.app/api?username=pessoa736&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=rose&border_radius=15&card_width=467" />
    </picture>
  </a>
 </div>
